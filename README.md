@@ -1,4 +1,4 @@
-# Online Examination Systems
+# Online Examination Systems(SQL)
 
 In this Project, we aim to create an Examination System that generates random questions for students by creating our own Data Base, choosing our entities, their properties, and the relations between them, using SQL Server as our relational database management system.
 
